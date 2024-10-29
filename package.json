@@ -28,6 +28,8 @@
   },
   "homepage": "https://github.com/enzovitulli/proyecto-tienda-de-mascotas#readme",
   "dependencies": {
-    "bootstrap": "^5.3.3"
+    "bootstrap": "^5.3.3",
+    "proyecto-tienda-de-mascotas": "file:",
+    "sass": "^1.80.4"
   }
 }
