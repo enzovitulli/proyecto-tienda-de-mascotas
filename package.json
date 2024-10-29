@@ -1,0 +1,33 @@
+{
+  "name": "proyecto-tienda-de-mascotas",
+  "version": "1.0.0",
+  "description": "Proyecto web de una tienda de mascotas para la asignatura de Aplicaciones Multidispositivo utilizando principalmente Boo tstrap SASS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enzovitulli/proyecto-tienda-de-mascotas.git"
+  },
+  "keywords": [
+    "proyecto",
+    "web",
+    "bootstrap",
+    "sass",
+    "tienda",
+    "de",
+    "mascotas",
+    "aplicaciones",
+    "multidispositivos"
+  ],
+  "author": "V, A, M, G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enzovitulli/proyecto-tienda-de-mascotas/issues"
+  },
+  "homepage": "https://github.com/enzovitulli/proyecto-tienda-de-mascotas#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}

@@ -1,0 +1,47 @@
+Estructura 
+Tienda de mascotas --> primera idea
+Primera página inicio, otra para mamíferos, otra para peces, otra para aves, otros etc etc
+ 
+2. Diseño responsive
+Diseño responsive --> usar columnas (pasar de 4 artículos en desktop a 1-2 en móvil, por ej)
+ 
+3. Barra de navegación
+Barra de nav --> horizontal de desktop; vertical en móvil (en un princpio, por determinar)
+Buscar logotipo
+Icono de lupa al final de la barra de nav que se despliega (pasaría al principio en el móvil sin desplegar)
+Sugerencia avanzada --> por ver, pero por ahora no creemos
+ 
+4. Compomentos de Bootstrap
+Botones --> comprar, añadir al carrito, inciar sesión, suscribirse, favorito (se pueden añadir más)
+Desplegable --> selección de cantidad, menú de nav en móvil
+Sección con fichas o pestañas --> menú en ordenador
+Formulario --> registrarse/inicar sesi´ón, suscribirse a la newsletter
+Tabla responsive --> tipos de alimentos para comparar
+ 
+5. Componentes adicionales
+Investigar
+ 
+6. Uso de SASS (NO SÉ NADA)
+Variables y mixins --> 
+Modularización -->
+Sugerenca avanzada -->
+ 
+DOCUMENTACIÓN DEL PROYECTO
+Explicación de la responsividad
+Breakpints mediante columnas
+Ejemplos --> capturas de pantalla
+Requisitos generales
+Dónde se encuentran situados los elementos en la página y cómo se adaptan a distintos dispositivos
+Implementación de SASS
+Explicar su uso
+Compomentes adicionales
+Descripción, documentación y justificación 
+
+Ejemplo de web
+Página principal --> 
+Otras páginas --> página de maíferos, página de aves, página de otros, etc... y cada una tiene pestañas de comida, juguetes, etc etc
+Formulario --> quejas/reclamaciones, comentarios de productos (añadir img),  
+ 
+FECHA DE ENTREGA: 14 DE NOVIEMBRE (JUEVES)
+ 
+QUEDAN 23 DÍAS
