@@ -30,6 +30,6 @@
   "dependencies": {
     "bootstrap": "^5.3.3",
     "proyecto-tienda-de-mascotas": "file:",
-    "sass": "^1.80.4"
+    "sass": "^1.80.5"
   }
 }
